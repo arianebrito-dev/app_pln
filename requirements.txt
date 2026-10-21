@@ -1,0 +1,4 @@
+LeAI
+Streamlit
+spacy
+Pandas
