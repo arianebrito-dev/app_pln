@@ -1,4 +1,4 @@
-LeAI
+leia
 Streamlit
 spacy
 Pandas
