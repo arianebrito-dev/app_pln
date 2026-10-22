@@ -3,7 +3,7 @@ import spacy
 import sqlite3
 import pandas as pd
 from datetime import datetime
-from LeIA import SentimentIntensityAnalyzer  # Substitui o NLTK pelo LeIA (PT-BR)
+from leia import SentimentIntensityAnalyzer  # Substitui o NLTK pelo LeIA (PT-BR)
 
 # 1. Carregar o modelo NLP e o Analisador de Sentimentos em cache
 @st.cache_resource
